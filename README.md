@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my Git Repository.
+Author - Manahil Khan.
 
 <!--
 **manahilkhan11112-stack/manahilkhan11112-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
