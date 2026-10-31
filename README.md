@@ -1,6 +1,6 @@
 ## Hi there 👋
 This is my Git Repository.
-\n
+<br>
 Author - Manahil Khan.
 
 <!--
